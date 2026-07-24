@@ -58,4 +58,8 @@ Creative and attractive website with responsive design and smooth UI.
 - Data Structures & Algorithms (DSA)
 - Advanced React.js
 - Node.js & Backend Development
+## 📫 Connect With Me
 
+- 💼 LinkedIn: https://www.linkedin.com/in/hamayal-ansari-a12b10371/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B2WjC81dDRl6LYnKEj8HW2A%3D%3D
+- 💻 GitHub: https://github.com/hamayalansari10-star
+  
