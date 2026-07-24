@@ -32,9 +32,9 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamayalansari10-star&show_icons=true&theme=great-gatsby&hide_border=true"/>
+  
   <br>
-  <img src="https://streak-stats.demolab.com?user=hamayalansari10-star&theme=great-gatsby&hide_border=true"/>
+  
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamayalansari10-star&layout=compact&theme=great-gatsby&hide_border=true"/>
 </p>
