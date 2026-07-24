@@ -20,6 +20,7 @@
 - Currently Learning: Data Structures & Algorithms (DSA)
 
  🌟 Featured Projects
+ <br>
 - 🛒 E-Mart Website
 - 🌐 Portfolio Website
 - 🏨 Holiday Resort Website
