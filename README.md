@@ -32,9 +32,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  
-  <br>
-  
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamayalansari10-star&layout=compact&theme=great-gatsby&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hamayalansari10-star&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=hamayalansari10-star&theme=tokyonight&hide_border=true" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamayalansari10-star&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+
