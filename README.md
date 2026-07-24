@@ -29,3 +29,12 @@
 - LinkedIn: https://www.linkedin.com/in/hamayal-ansari-a12b10371/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B2WjC81dDRl6LYnKEj8HW2A%3D%3D
 
 ⭐ Thanks for visiting my profile! Let's build something amazing together.
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamayalansari10-star&show_icons=true&theme=great-gatsby&hide_border=true"/>
+  <br>
+  <img src="https://streak-stats.demolab.com?user=hamayalansari10-star&theme=great-gatsby&hide_border=true"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamayalansari10-star&layout=compact&theme=great-gatsby&hide_border=true"/>
+</p>
